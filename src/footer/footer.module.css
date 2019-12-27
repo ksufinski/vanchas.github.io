@@ -1,0 +1,26 @@
+.footer {
+  /* margin-top: calc(100vh - 5em); */
+  margin-top: 30vh;
+  width: 100%;
+  height: 5em;
+  background: rgb(202, 202, 202);
+  font-weight: 700;
+  color: rgb(65, 65, 65);
+}
+.footer_text {
+  display: grid;
+  grid-template-columns: 1.3em 2.8em 10em;
+  margin-left: 3em;
+  padding-top: 1em;
+}
+.footer_text i,
+.footer_text time,
+.substring i {
+  font-style: normal;
+  color: black;
+  font-weight: 600;
+}
+.substring {
+  margin-left: 4em;
+  font-size: .7em;
+}

@@ -1,0 +1,35 @@
+.about {
+  text-align: center;
+  display: grid;
+  justify-content: center;
+  padding: 3em 6em;
+  background: #fafafa;
+}
+.contact {
+  text-align: center;
+  font-size: 1.2em;
+  background: #fafafa;
+}
+.contact h4 {
+  margin: .5em;
+}
+.contact a {
+  text-decoration: none;
+  color: black;
+}
+.resume {
+  padding: 3em 10em;
+  font-size: 1.2em;
+  background: #fafafa;
+}
+.projects {
+  display: grid;
+  grid-template-columns: 200px 200px;
+  grid-template-rows: 210px 210px 210px;
+  grid-gap: 5em;
+  justify-content: center;
+  background: #fafafa;
+}
+.biography {
+  max-width: 30em;
+}
