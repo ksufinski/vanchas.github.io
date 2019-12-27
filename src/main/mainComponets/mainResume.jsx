@@ -4,7 +4,35 @@ import style from '../main.module.css';
 const Resume = (props) => {
   return (
     <section className={style.resume}>
-      <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Omnis quos numquam ipsam ea aut eligendi, magnam deleniti provident, accusantium quibusdam assumenda debitis, sint rem repellat perspiciatis minima ex ullam a. Lorem ipsum dolor sit amet consectetur, adipisicing elit. Veritatis, sunt voluptas magnam, repellat necessitatibus officiis neque suscipit quos facilis aliquam, doloremque repudiandae debitis dolorem laborum molestias corporis dolore deleniti? Reprehenderit?</p>
+      <blockquote><b>Моя цель:</b> найти работу в технологической компании и быть полезным как для самого предприятия, так и для индустрии в целом.</blockquote>
+
+      <h2>Проекты</h2>
+
+      <h3>Ресторан “Сенатор”</h3>
+      <i>октябрь 2018 - март 2019</i>
+      <h4>Су-Шеф</h4>
+      <p>Занимался контролем приготовления блюд, управлением поварского состава. Принимал участие в разработке новых позиций и написании технологических и калькуляционных карт для учета и инвентаризации продукции.</p>
+      <hr/>
+      <h3>Ресторан “Сенатор”</h3>
+      <i>сентябрь 2017 - октябрь 2018</i>
+      <h4>Повар</h4>
+      <p>Стремился делать упор на автоматизацию и упрощение процессов, в результате успешной работы занял должность су-шефа.</p>
+      <hr/>
+      <h3>Гастро-Паб “Голый Шеф”</h3>
+      <i>сентябрь 2016 - сентябрь 2017</i>
+      <h4>Повар</h4>
+      <p>Занимал должность повара горячего цеха и повара выдачи блюд.</p>
+      <hr/>
+      <h3>Diving club of Montenegro, Budva (Черногория)</h3>
+      <i>май - сентябрь 2016</i>
+      <h4>Sales Manager</h4>
+      <p>После прохождения курса продаж Phillip Morris занимался активными продажами.</p>
+      <hr/>
+      <h3>КБ “ПриватБанк”</h3> 
+      <i>апрель 2019 - настоящее время</i>
+      <h4>Специалист по обслуживанию клиентов</h4>
+      <p>Я получил новый для себя опыт работы в различных сложнейших программных комплексах, что очень пригодятся для работы в IT.<br/>
+      В мои обязанности входили как операционные задачи, так и продажа различных продуктов для физлиц, что здорово подтянуло мой уровень коммуникации.</p>
     </section>
   );
 };

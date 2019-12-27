@@ -21,6 +21,7 @@
   padding: 3em 10em;
   font-size: 1.2em;
   background: #fafafa;
+  max-width: 80%;
 }
 .projects {
   display: grid;
