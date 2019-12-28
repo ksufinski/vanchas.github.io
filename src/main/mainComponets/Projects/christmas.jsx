@@ -13,8 +13,8 @@ const ChristmasPostcard = (props) => {
         </div>
         <div className={style.face2}>
           <div className={style.content}>
-            <p className={style.face2_text}>Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et</p>
-            <a target="_blank" href="https://codepen.io/vannish/pen/XWJjyNV">Read More</a>
+            <p style={{marginTop:1+'em'}} className={style.face2_text}>And this is an animation christmas postcard with countdown to the Happy New Year</p>
+            <a target="_blank" href="https://codepen.io/vannish/pen/XWJjyNV">See the Pen</a>
           </div>
         </div>
       </div>

@@ -5,6 +5,7 @@
 .card {
   position: relative;
   opacity: .6;
+  margin-bottom: 3em;
 }
 .card:hover {
   opacity: .9;
@@ -49,7 +50,7 @@
 .face2_text {
   padding-top: 1em;
   margin: 0;
-  text-align: justify;
+  /* text-align: justify; */
 }
 .face2 a {
   text-decoration: none; 

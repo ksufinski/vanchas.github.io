@@ -13,8 +13,8 @@ const Calculator = (props) => {
         </div>
         <div className={style.face2}>
           <div className={style.content}>
-          <p className={style.face2_text}>Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et</p>
-            <a target="_blank" href="https://codepen.io/vannish/pen/NWWJZKX">Read More</a>
+          <p style={{paddingTop:3+'em'}} className={style.face2_text}>This is a simple javascript calculator with modern design</p>
+            <a target="_blank" href="https://codepen.io/vannish/pen/NWWJZKX">See the Pen</a>
           </div>
         </div>
       </div>

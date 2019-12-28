@@ -13,8 +13,8 @@ const Archetypes = (props) => {
         </div>
         <div className={style.face2}>
           <div className={style.content}>
-          <p className={style.face2_text}>Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et</p>
-            <a target="_blank" href="https://codepen.io/vannish/pen/NWPKQVY">Read More</a>
+          <p className={style.face2_text}>Find out what Archetype you are, using my test. Actualy, i made a constructor for any questioners in native javascript</p>
+            <a target="_blank" href="https://codepen.io/vannish/pen/NWPKQVY">See the Pen</a>
           </div>
         </div>
       </div>

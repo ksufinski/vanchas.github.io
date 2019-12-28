@@ -13,8 +13,8 @@ const PerpectBike = (props) => {
         </div>
         <div className={style.face2}>
           <div className={style.content}>
-          <p className={style.face2_text}>Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et</p>
-            <a target="_blank" href="https://codepen.io/vannish/pen/rNNvLZB">Read More</a>
+          <p className={style.face2_text}>This is a questionare, which can help you to find out your perfect bicycle. I've made it after tho weeks learning javascript</p>
+            <a target="_blank" href="https://codepen.io/vannish/pen/rNNvLZB">See the Pen</a>
           </div>
         </div>
       </div>
